@@ -1,9 +1,19 @@
 # Loveday-Portfolio
 Live Web Dev portfolio.
 
+README.md Description:
 This repository will contain the files needed for the Live Web Dev Portfolio by Jack Loveday.
+As per the requirements listed for: '2. Advanced CSS Challenge: Professional Portfolio'
 
-Acceptance Criteria:
+
+Link to deployed application:
+
+
+Screenshot of finished application:
+![Final Product](finalapp.png "Final Product")
+
+
+Acceptance Criteria (Completed):
 GIVEN I need to sample a potential employee's previous work
 WHEN I load their portfolio
 THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
@@ -17,3 +27,5 @@ WHEN I click on the images of the applications
 THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
+
+
