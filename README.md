@@ -7,7 +7,7 @@ As per the requirements listed for: '2. Advanced CSS Challenge: Professional Por
 
 
 Link to deployed application:
-
+https://jackloveday-git.github.io/Loveday-Portfolio/
 
 Screenshot of finished application:
 ![Final Product](finalapp.png "Final Product")
